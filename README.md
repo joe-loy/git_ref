@@ -36,3 +36,6 @@ git push repo-name branch-name
 
 # How to download Github repository onto local machine
 
+```
+git clone git@github.com:https://github.com/joe-loy/git_ref.git
+
