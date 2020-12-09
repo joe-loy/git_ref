@@ -24,7 +24,7 @@ git init
 
 ```
 git add --all
-git git status
+git status
 git commit -m "Commit comment"
 git push origin branch-name
 ```
