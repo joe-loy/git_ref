@@ -38,4 +38,13 @@ git push repo-name branch-name
 
 ```
 git clone https://github.com/joe-loy/git_ref.git
+
+
+```
+
+# How to change branches on git
+```
+git checkout existing_branch
+git checkout -b new_branch
+
 ```
